@@ -1,12 +1,4 @@
-import streamlit as st
 
-from sklearn.cluster import KMeans
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn import linear_model
-from streamlit_option_menu import option_menu
-from sklearn.linear_model import  LinearRegression
-import plotly.express as px
 
 
 
