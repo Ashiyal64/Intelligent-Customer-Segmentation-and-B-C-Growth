@@ -7,6 +7,8 @@ from sklearn import linear_model
 from streamlit_option_menu import option_menu
 from sklearn.linear_model import  LinearRegression
 import plotly.express as px
+from streamlit_option_menu import option_menu
+
 
 df=pd.read_csv("custom_dataset.csv")
 #customerdata
