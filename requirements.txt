@@ -1,6 +1,6 @@
-streamlit==1.33.0 as st
-pandas==2.2.2 as pd
-plotly==5.20.0 as px
-scikit-learn==1.4.1
-matplotlib==3.8.3 as plt
+streamlit
+pandas
+plotly 
+scikit-learn
+matplotlib
 
